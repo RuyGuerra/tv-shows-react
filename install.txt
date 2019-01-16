@@ -1,0 +1,38 @@
+yarn add @material-ui/core
+yarn add @material-ui/icons
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+yarn add node-sass
+yarn add prop-types
+yarn add redux
+yarn add react-redux
+yarn add redux-devtools-extension
+yarn add react-router-dom
+yarn add redux-saga
+yarn add lodash
+yarn add moment
+yarn add axios
+yarn add styled-components
+yarn add recompose
+yarn add reselect
+
+yarn add -D redux-devtools
+
+npm i -D eslint
+npm i -D eslint-config-airbnb
+npm i -D eslint-plugin-import
+npm i -D eslint-plugin-jsx-a11y
+npm i -D eslint-plugin-react
+
+npm i -D prettier
+npm i -D eslint-config-prettier
+npm i -D eslint-plugin-prettier
+
+npm i -D eslint-plugin-jest
+
+npm i -D enzyme enzyme-adapter-react-16
+
+https://medium.com/quick-code/how-to-integrate-eslint-prettier-in-react-6efbd206d5c4
+xxx

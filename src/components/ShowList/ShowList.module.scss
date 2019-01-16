@@ -1,0 +1,10 @@
+.container {
+  margin: 0 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+
+// .item {
+//   display: inline-grid;
+// }
